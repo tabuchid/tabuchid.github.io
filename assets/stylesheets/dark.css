@@ -770,7 +770,7 @@ blockquote {
   padding-bottom: 3rem; }
   .page-heading .page-title {
     font-family: 'Oswald', sans-serif;
-    text-transform: uppercase;
+    text-transform: none;
     font-size: 5rem;
     line-height: 1.1;
     text-align: center;
@@ -869,7 +869,7 @@ blockquote {
 
 .page-header {
   text-align: center;
-  text-transform: uppercase;
+  text-transform: none;
   margin-bottom: 3rem; }
   .page-header .page-title {
     margin-bottom: 0.7rem;
